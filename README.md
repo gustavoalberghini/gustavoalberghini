@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gustavo
 
-<!--
-**gustavoalberghini/gustavoalberghini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor web em formação, focado em criar sites simples, bonitos e funcionais.
 
-Here are some ideas to get you started:
+Atualmente estudo:
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 O que estou aprendendo
+- Estruturação de páginas com HTML
+- Estilização e responsividade com CSS
+- Lógica e interações com JavaScript
+
+## 🚀 Objetivo
+Construir projetos reais, evoluir como desenvolvedor e atuar na área de tecnologia no futuro.
+
+## 📫 Contato
+- Email: gustavospalberghini@gmail.com
