@@ -102,20 +102,32 @@ Tecnologias:
 
 ---
 
-## 📊 Estatísticas
+---
+
+# 📊 Minha atividade no GitHub
 
 
 <div align="center">
 
+
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=gustavoalberghini&show_icons=true&theme=tokyonight"
+width="49%"
+src="https://github-readme-stats.vercel.app/api?username=gustavoalberghini&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&include_all_commits=true"
 />
 
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalberghini&layout=compact&theme=tokyonight"
+width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalberghini&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000"
+/>
+
+
+<br><br>
+
+
+<img
+width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=gustavoalberghini&theme=tokyo-night&hide_border=true&bg_color=00000000"
 />
 
 
